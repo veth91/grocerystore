@@ -1,10 +1,15 @@
-Grocery Store App
+<h1>Grocery Store App</h1>
 
-What is this?
+<h2>What is this?</h2>
 This is a "console" application that takes user inputs via the browser's prompt window and displays information in the javascript terminal. 
 
 
-How to use the grocery store app
+<h2>How to use the grocery store app</h2>
+
+visit: https://veth91.github.io/grocerystore/
+<br>
+or
+<br>
 Open the index.html file in your browser. You will see a list of available commands. Be sure to open your javascript console before starting the app. To start the app, click the "Start App" button. Ensure that popup blockers are disabled as they can interfere with the prompts. 
 
 
