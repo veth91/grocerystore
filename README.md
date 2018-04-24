@@ -1,5 +1,5 @@
 <h1>Grocery Store App</h1>
-link to github: https://github.com/veth91/grocerystore
+link to github repo: https://github.com/veth91/grocerystore
 
 <h2>What is this?</h2>
 This is a "console" application that takes user inputs via the browser's prompt window and displays information in the javascript terminal. 
@@ -27,9 +27,9 @@ I tryed to demonstrate a few of my strengths in this app including:
 	<li>
 		Knowledge of modern JS
 		<ul>
-			<li>+Arrow functions</li>
-			<li>+Obect Classes</li>
-			<li>+Template strings</li>
+			<li>Arrow functions</li>
+			<li>Obect Classes</li>
+			<li>Template strings</li>
 		</ul>
 	</li>
 	<li>Modular design</li>
@@ -38,7 +38,7 @@ I tryed to demonstrate a few of my strengths in this app including:
 		Ability to follow instructions
 		<ul>
 			<li>
-				+The assignment clearly states the app needs to be a console app and the intro to the exrecise also states that "orchestrating the balance between people, process and technology" is important. I tried to make this app as easy to use and set up while still meeting the requirements of the exercise. 
+				The assignment clearly states the app needs to be a console app and the intro to the exrecise also states that "orchestrating the balance between people, process and technology" is important. I tried to make this app as easy to use and set up while still meeting the requirements of the exercise. 
 			</li>
 		</ul>
 	</li>
@@ -53,9 +53,9 @@ I tryed to demonstrate a few of my strengths in this app including:
 
 <h2>Known Issues</h2>
 <ul>
-	<li>*Can timeout if you change to another tab while prompt is open</li>
-	<li>*Data validation is weak</li>
-	<li>*Requires Console to be opened before starting app</li>
+	<li>Can timeout if you change to another tab while prompt is open</li>
+	<li>Data validation is weak</li>
+	<li>Requires Console to be opened before starting app</li>
 </ul>
 
 
